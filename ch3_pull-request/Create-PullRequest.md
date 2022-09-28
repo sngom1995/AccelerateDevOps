@@ -10,11 +10,12 @@ In Chapter 3 - _Teamwork and Collaborative Development_ we learn how to collabo
 
 3. Add one or two lines here with a random text:
 
-   __...__
+Test with pull request
+The first i have done throughout reading this book
 
 4. Modify the following line by removing the letters that do not belong:
 
-   __---> The ccow jumpedd ovverr thhe mooon__
+   __---> The ccow jumpedd ovverr thhe mon__
 
 5. Commit your changes into a new _branch_:
 
